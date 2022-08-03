@@ -1,2 +1,2 @@
 # javaScript
-这是JavaScript代码库
+这是自学JavaScript的代码库
